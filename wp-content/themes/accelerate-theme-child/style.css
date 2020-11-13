@@ -1,0 +1,47 @@
+/*
+Theme Name:   Accelerate Theme Child
+Theme URI:    http://example.com/accelerate-theme-child/
+Description:  Accelerate Child Theme - Accelerate
+  Author:   	Bria A. Saunders-Hall
+Author URI:   http://bshwork.me
+Template: 	accelerate-theme
+Version:      2.0.0
+Tags:     	light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  accelerate-theme-child
+*/
+
+/* BODY STYLES */
+#masthead {
+  background-color: #45AB9D;
+}
+/* HOMEPAGE STYLES */
+.home-page {
+  background-image: url('img/taxi-photo.jpg');
+}
+
+.button {
+  background-color: #45AB9D;
+}
+
+.blog-posts {
+  width: 50%;
+  float: left;
+  margin-bottom: 2em;
+}
+
+.blog-posts h4 {
+  font: 700 1em/1.75 'Montserrat', 'Open Sans', Aria 1, sans-serif;
+  color: #a6a6a6;
+  margin: 2em 0 .5em;
+}
+
+.blog-posts h3 {
+  font-size: 1.5em;
+}
+
+.read-more-link {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color: #45ac9d;
+  text-transform: uppercase;
+}
