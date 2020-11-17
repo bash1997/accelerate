@@ -11,8 +11,12 @@ Text Domain:  accelerate-theme-child
 */
 
 /* BODY STYLES */
+
 #masthead {
   background-color: #45AB9D;
+}
+body {
+  background: yellow;
 }
 /* HOMEPAGE STYLES */
 .home-page {
