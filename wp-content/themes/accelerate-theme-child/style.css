@@ -15,9 +15,6 @@ Text Domain:  accelerate-theme-child
 #masthead {
   background-color: #45AB9D;
 }
-body {
-  background: yellow;
-}
 /* HOMEPAGE STYLES */
 .home-page {
   background-image: url('img/taxi-photo.jpg');
